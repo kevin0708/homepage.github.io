@@ -1,0 +1,7 @@
+baseURL = "https://kevin0708/homepage.github.io/"
+languageCode = "zh-CN"
+title = "Ursa 实验室"
+theme = "LoveIt"
+
+[params.plugins]
+  enableDiagrams = false
